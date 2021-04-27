@@ -1,17 +1,17 @@
 [
     {
         "riseKernel": {
-                "v1.4-1": ["https://androidfilehost.com/?fid=2188818919693766931", "https://drive.google.com/file/d/1IBQO08QHJNdGc7HzIIxwQpIfZ5Wy1lUi/view"],
-                "v1.4": ["https://androidfilehost.com/?fid=17248734326145718065", "https://drive.google.com/file/d/1GyVVJ6R45kTCfQjXlYxnylEeCI4-wZcc/view"],
-                "v1.3": ["https://androidfilehost.com/?fid=8889791610682932067", "https://drive.google.com/file/d/17IFlxyJxYDNqtWygkQdjoHICN4d_Qqvk/view"],
-                "v1.3T": ["https://androidfilehost.com/?fid=17248734326145718063", "https://drive.google.com/file/d/1O-HBFhQajtq-1dw-yiXxoJcL5b_ODQfp/view"],
-                "v1.2_a5": ["https://androidfilehost.com/?fid=8889791610682913476", ""],
-                "v1.2_a7": ["https://androidfilehost.com/?fid=8889791610682913478", ""],
-                "v1.1_a5": ["https://androidfilehost.com/?fid=8889791610682879566", ""],
-                "v1.1_a7": ["https://androidfilehost.com/?fid=8889791610682879570", ""],
-                "v1_a5": ["https://androidfilehost.com/?fid=4349826312261730088", ""],
-                "v1_a7": ["https://androidfilehost.com/?fid=4349826312261730093", ""],
-                "v3 (Pie)": ["https://androidfilehost.com/?fid=8889791610682932069", "https://drive.google.com/file/d/1QiKCZn94rJiS74IqiLUiGDVewEuLY8ge/view"]
+                "v1.4-1": ["https://drive.google.com/file/d/1IBQO08QHJNdGc7HzIIxwQpIfZ5Wy1lUi/view", "", "https://androidfilehost.com/?fid=2188818919693766931"],
+                "v1.4": ["https://drive.google.com/file/d/1GyVVJ6R45kTCfQjXlYxnylEeCI4-wZcc/view", "", "https://androidfilehost.com/?fid=17248734326145718065"],
+                "v1.3": ["https://drive.google.com/file/d/17IFlxyJxYDNqtWygkQdjoHICN4d_Qqvk/view", "", "https://androidfilehost.com/?fid=8889791610682932067"],
+                "v1.3T": ["https://drive.google.com/file/d/1O-HBFhQajtq-1dw-yiXxoJcL5b_ODQfp/view", "", "https://androidfilehost.com/?fid=17248734326145718063"],
+                "v1.2_a5": ["", "", "https://androidfilehost.com/?fid=8889791610682913476"],
+                "v1.2_a7": ["", "", "https://androidfilehost.com/?fid=8889791610682913478"],
+                "v1.1_a5": ["", "", "https://androidfilehost.com/?fid=8889791610682879566"],
+                "v1.1_a7": ["", "", "https://androidfilehost.com/?fid=8889791610682879570"],
+                "v1_a5": ["", "", "https://androidfilehost.com/?fid=4349826312261730088"],
+                "v1_a7": ["", "", "https://androidfilehost.com/?fid=4349826312261730093"],
+                "v3 (Pie)": ["https://drive.google.com/file/d/1QiKCZn94rJiS74IqiLUiGDVewEuLY8ge/view", "", "https://androidfilehost.com/?fid=8889791610682932069"]
         },
 
         "rise-q": {
