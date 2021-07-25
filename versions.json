@@ -1,6 +1,6 @@
 [
     {
-        "riseKernel": ["v1.6", "v1.5", "v1.4-1", "v1.4", "v1.3", "v1.2", "v1.1", "v1", "v3 (Pie)"],
+        "riseKernel": ["v1.6", "v1.5", "v1.4-1", "v3 (Pie)"],
         "kernelType": ["AOSP 11.0", "AOSP 10.0", "Treble 11.0", "Treble 10.0", "OneUI 10.0", "AOSP 9.0"],
         "rise-q": ["v2.1", "v2.0", "v1.1", "v1.0"],
         "trebleType": ["riseTreble Q", "riseTreble R"],
