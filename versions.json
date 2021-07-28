@@ -4,6 +4,6 @@
         "kernelType": ["AOSP 10.0", "Treble 10.0", "OneUI 10.0", "AOSP 9.0"],
         "rise-q": ["v2.1", "v2.0", "v1.1", "v1.0"],
         "riseTreble-q": ["v1.1", "v1.0", "Navbar Enabler"],
-        "appVersion": ["v1.0"]
+        "appVersion": ["v1.1", "v1.0"]
     }
 ]
